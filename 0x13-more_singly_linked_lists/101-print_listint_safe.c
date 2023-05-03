@@ -13,11 +13,10 @@ size_t print_listint_safe(const listint_t *head)
 	const listint_t *j = NULL;
 	size_t count = 0;
 
-	while (k != NULL)
+	while (k)
 	{
 		printf("[%p] %d\n", (void *)k, k->n);
 		count++;
-		j = k;
 		k = k->next;
 
 		if (k >= j)
@@ -25,6 +24,11 @@ size_t print_listint_safe(const listint_t *head)
 			printf("-> [%p] %d\n", (void *)k, k->n);
 			break;
 		}
+		if (j)
+			j = j->next;
+		if (j)
+			j = j->next;
+
 	}
 	return (count);
 }
