@@ -7,58 +7,22 @@
  * POSIX standard output
  * @filename: text file that is being read
  * @letters: numbbers of letters
- * the actual number of letters it could read and print
+ * Return: the actual number of letters it could read and print
  */
 
 ssize_t read_textfile(const char *filename, size_t letters)
 {
-	if (filename == NULL)
-	{
-		FILE *file;
-		char *buffer;
-		size_t nread, nwritten;
-		size_t l;
+	ssize_t j, k, l;
+	char *buffer;
 
-		file = fopen(filename, "r");
-		if (file == NULL)
-		{
-			return (0);
-		}
-
-		buffer = malloc(letters + 1);
-		if (buffer == NULL)
-		{
-			fclose(file);
-			return (0);
-		}
-
-		for (nread = 0; nread < letters; nread++)
-		{
-			int k = fgetc(file);
-			if (k == EOF)
-			{
-				break;
-			}
-			buffer[nread] = k;
-		}
-		buffer[nread] = '\0';
-
-		for (l = 0; l < nread; l += nwritten)
-		{
-			nwritten = fwrite(&buffer[1], sizeof(char), nread - l, stdout);
-			if (nwritten <= 0)
-			{
-				break;
-			}
-		}
-
-		free(buffer);
-		fclose(file);
-
-		return (nread);
-	}
-	else
-	{
+	j = open(filename, O_RDONLY);
+	if (j == -1)
 		return (0);
-	}
+	buffer = malloc(sizeof(char) * letters);
+	l = read(j, buffer, letters);
+	k = write(STDOUT_FILENO, buffer, l);
+
+	free(buffer);
+	close(j);
+	return (k);
 }
