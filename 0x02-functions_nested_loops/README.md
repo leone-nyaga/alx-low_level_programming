@@ -668,4 +668,43 @@ Repo:
 
 13. Nature made the natural numbers; All else is the work of women
 
+If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23. Write a program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
+
+You are allowed to use the standard library
+
+Repo:
+
++ GitHub repository: alx-low_level_programming
++ Directory: 0x02-functions_nested_loops
++ File: 101-natural.c
+
+14. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A
+
+Write a program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.
+
++ The numbers must be separated by comma, followed by a space , 
++ You are allowed to use the standard library
+
+Repo:
+
++ GitHub repository: alx-low_level_programming
++ Directory: 0x02-functions_nested_loops
++ File: 102-fibonacci.c
+
+15. Even Liber Abbaci
+
+Write a program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
+
++ The numbers should be separated by comma, followed by a space ,
++ You are allowed to use the standard library
++ You are not allowed to use any other library (You can’t use GMP etc…)
++ You are not allowed to use long long, malloc, pointers, arrays/tables, or structures
++ You are not allowed to hard code any Fibonacci number (except for 1 and 2)
+
+Repo:
+
++ GitHub repository: alx-low_level_programming
++ Directory: 0x02-functions_nested_loops
++ File: 104-fibonacci.c
+
 
