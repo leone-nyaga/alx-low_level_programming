@@ -2,6 +2,8 @@
 
 ## Resources
 
+[0x00 C Hello, World](https://youtu.be/co0b0xLEuRM)
+
 Read or watch:
 
 + [Everything you need to know to start with C.pdf](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2022/4/e0ccf91eec6b977a9e00ed384dc285df9c2772e3.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20250703%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250703T211224Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3290f5bd1123fbc2cdf94f49ba89b8162f26a138c8acbb160c2d4f95e1adb659) (You do not have to learn everything in there yet, but make sure you read it entirely first)
