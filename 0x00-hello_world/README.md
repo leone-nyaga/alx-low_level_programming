@@ -109,6 +109,10 @@ done
 
 You can now type betty <filename> to run the Betty linter!
 
+## Quiz Questions
+
+
+
 ## Tasks
 
 0. Preprocessor
