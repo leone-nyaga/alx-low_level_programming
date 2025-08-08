@@ -111,7 +111,10 @@ You can now type betty <filename> to run the Betty linter!
 
 ## Quiz Questions
 
-
+![task0](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x00-hello_world/images/Chello0-1.png)
+![task1](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x00-hello_world/images/chello2.png)
+![task2](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x00-hello_world/images/chello3-4.png)
+![task3](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x00-hello_world/images/chello5.png)
 
 ## Tasks
 
