@@ -457,3 +457,134 @@ Repo:
 + GitHub repository: alx-low_level_programming
 + Directory: 0x04-more_functions_nested_loops
 + File: 9-fizz_buzz.c
+
+10. Triangles
+
+Write a function that prints a triangle, followed by a new line.
+
++ Prototype: void print_triangle(int size);
++ You can only use _putchar function to print
++ Where size is the size of the triangle
++ If size is 0 or less, the function should print only a new line
++ Use the character # to print the triangle
+
+```bash
+julien@ubuntu:~/0x04$ cat 10-main.c 
+#include "main.h"
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+    print_triangle(2);
+    print_triangle(10);
+    print_triangle(1);
+    print_triangle(0);
+    return (0);
+}
+julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 10-main.c 10-print_triangle.c -o 10-triangles
+julien@ubuntu:~/0x04$ ./10-triangles 
+ #
+##
+         #
+        ##
+       ###
+      ####
+     #####
+    ######
+   #######
+  ########
+ #########
+##########
+#
+
+julien@ubuntu:~/0x04$ ./10-triangles | tr ' ' . | cat -e
+.#$
+##$
+.........#$
+........##$
+.......###$
+......####$
+.....#####$
+....######$
+...#######$
+..########$
+.#########$
+##########$
+#$
+$
+julien@ubuntu:~/0x04$
+```
+
+Repo:
+
++ GitHub repository: alx-low_level_programming
++ Directory: 0x04-more_functions_nested_loops
++ File: 10-print_triangle.c
+
+11. The problem of distinguishing prime numbers from composite numbers and of resolving the latter into their prime factors is known to be one of the most important and useful in arithmetic
+
+The prime factors of 1231952 are 2, 2, 2, 2, 37 and 2081.
+
+Write a program that finds and prints the largest prime factor of the number 612852475143, followed by a new line.
+
++ You are allowed to use the standard library
++ Your program will be compiled with this command: gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-prime_factor.c -o 100-prime_factor -lm
+
+Repo:
+
++ GitHub repository: alx-low_level_programming
++ Directory: 0x04-more_functions_nested_loops
++ File: 100-prime_factor.c
+
+12. Numbers have life; they're not just symbols on paper
+
+Write a function that prints an integer.
+
++ Prototype: void print_number(int n);
++ You can only use _putchar function to print
++ You are not allowed to use long
++ You are not allowed to use arrays or pointers
++ You are not allowed to hard-code special values
+
+```bash
+julien@ubuntu:~/0x04$ cat 101-main.c
+#include "main.h"
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+    print_number(98);
+    _putchar('\n');
+    print_number(402);
+    _putchar('\n');
+    print_number(1024);
+    _putchar('\n');
+    print_number(0);
+    _putchar('\n');
+    print_number(-98);
+    _putchar('\n');
+    return (0);
+}
+julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 101-main.c 101-print_number.c -o 101-print_numbers
+julien@ubuntu:~/0x04$ ./101-print_numbers 
+98
+402
+1024
+0
+-98
+julien@ubuntu:~/0x04$ 
+```
+
+Repo:
+
++ GitHub repository: alx-low_level_programming
++ Directory: 0x04-more_functions_nested_loops
++ File: 101-print_number.c
