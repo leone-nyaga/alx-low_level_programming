@@ -215,4 +215,120 @@ Repo:
 + Directory: 0x04-more_functions_nested_loops
 + File: 3-print_numbers.c
 
+4. I believe in numbers and signs
 
+Write a function that prints the numbers, from 0 to 9, followed by a new line.
+
++ Prototype: void print_most_numbers(void);
++ Do not print 2 and 4
++ You can only use _putchar twice in your code
+
+```bash
+julien@ubuntu:~/0x04$ cat 4-main.c
+#include "main.h"
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+    print_most_numbers();
+    return (0);
+}
+julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 4-main.c 4-print_most_numbers.c -o 4-print_most_numbers
+julien@ubuntu:~/0x04$ ./4-print_most_numbers 
+01356789
+julien@ubuntu:~/0x04$
+```
+
+Repo:
+
++ GitHub repository: alx-low_level_programming
++ Directory: 0x04-more_functions_nested_loops
++ File: 4-print_most_numbers.c
+
+5. Numbers constitute the only universal language
+
+Write a function that prints 10 times the numbers, from 0 to 14, followed by a new line.
+
++ Prototype: void more_numbers(void);
++ You can only use _putchar three times in your code
+
+```bash
+julien@ubuntu:~/0x04$ cat 5-main.c
+#include "main.h"
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+    more_numbers();
+    return (0);
+}
+julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 5-main.c 5-more_numbers.c -o 5-more_numbers
+julien@ubuntu:~/0x04$ ./5-more_numbers 
+01234567891011121314
+01234567891011121314
+01234567891011121314
+01234567891011121314
+01234567891011121314
+01234567891011121314
+01234567891011121314
+01234567891011121314
+01234567891011121314
+01234567891011121314
+julien@ubuntu:~/0x04
+```
+
+Repo:
+
++ GitHub repository: alx-low_level_programming
++ Directory: 0x04-more_functions_nested_loops
++ File: 5-more_numbers.c
+
+6. The shortest distance between two points is a straight line
+
+Write a function that draws a straight line in the terminal.
+
++ Prototype: void print_line(int n);
++ You can only use _putchar function to print
++ Where n is the number of times the character _ should be printed
++ The line should end with a \n
++ If n is 0 or less, the function should only print \n
+
+```bash
+julien@ubuntu:~/0x04$ cat 6-main.c
+#include "main.h"
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+    print_line(0);
+    print_line(2);
+    print_line(10);
+    print_line(-4);
+    return (0);
+}
+julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 6-main.c 6-print_line.c -o 6-lines
+julien@ubuntu:~/0x04$ ./6-lines | cat -e
+$
+__$
+__________$
+$
+julien@ubuntu:~/0x04$ 
+```
+
+Repo:
+
++ GitHub repository: alx-low_level_programming
++ Directory: 0x04-more_functions_nested_loops
++ File: 6-print_line.c
