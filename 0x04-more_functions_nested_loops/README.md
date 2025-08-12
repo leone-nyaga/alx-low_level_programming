@@ -59,6 +59,16 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ## Quiz Questions
 
+![task0](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x04-more_functions_nested_loops/images/morefn0.png)
+![task1](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x04-more_functions_nested_loops/images/morefn1.png)
+![task2](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x04-more_functions_nested_loops/images/morefn2.png)
+![task3](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x04-more_functions_nested_loops/images/morefn3.png)
+![task4](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x04-more_functions_nested_loops/images/morefn4.png)
+![task5](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x04-more_functions_nested_loops/images/morefn5.png)
+![task6](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x04-more_functions_nested_loops/images/morefn6.png)
+![task7](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x04-more_functions_nested_loops/images/morefn7.png)
+![task8](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x04-more_functions_nested_loops/images/morefn8.png)
+
 ## Tasks
 
 0. isupper
