@@ -53,6 +53,8 @@ You do not need to learn about pointers to functions, pointers to pointers, mult
 
 ## Quiz Questions
 
+
+
 ## Tasks
 
 0. 98 Battery st.
