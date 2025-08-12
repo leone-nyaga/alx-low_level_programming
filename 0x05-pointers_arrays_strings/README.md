@@ -1,5 +1,7 @@
 # 0x05. C - Pointers, arrays and strings
 
+![C isn't that hard](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x05-pointers_arrays_strings/images/Cisntthathard.png)
+
 ## Resources
 
 Read or watch:
@@ -53,6 +55,14 @@ You do not need to learn about pointers to functions, pointers to pointers, mult
 
 ## Quiz Questions
 
+![task1](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x05-pointers_arrays_strings/images/pointer0-1.png)
+![task2](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x05-pointers_arrays_strings/images/pointer2.png)
+![task3](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x05-pointers_arrays_strings/images/pointer3-4.png)
+![task4](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x05-pointers_arrays_strings/images/pointer5-6.png)
+![task5](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x05-pointers_arrays_strings/images/pointer7.png)
+![task6](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x05-pointers_arrays_strings/images/pointer8-9.png)
+![task7](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x05-pointers_arrays_strings/images/pointer10.png)
+![task8](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x05-pointers_arrays_strings/images/pointer11-12.png)
 
 
 ## Tasks
