@@ -332,3 +332,128 @@ Repo:
 + GitHub repository: alx-low_level_programming
 + Directory: 0x04-more_functions_nested_loops
 + File: 6-print_line.c
+
+7. I feel like I am diagonally parked in a parallel universe
+
+Write a function that draws a diagonal line on the terminal.
+
++ Prototype: void print_diagonal(int n);
++ You can only use _putchar function to print
++ Where n is the number of times the character \ should be printed
++ The diagonal should end with a \n
++ If n is 0 or less, the function should only print a \n
+
+```bash
+julien@ubuntu:~/0x04$ cat 7-main.c
+#include "main.h"
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+    print_diagonal(0);
+    print_diagonal(2);
+    print_diagonal(10);
+    print_diagonal(-4);
+    return (0);
+}
+julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 7-main.c 7-print_diagonal.c -o 7-diagonals
+julien@ubuntu:~/0x04$ ./7-diagonals | cat -e
+$
+\$
+ \$
+\$
+ \$
+  \$
+   \$
+    \$
+     \$
+      \$
+       \$
+        \$
+         \$
+$
+julien@ubuntu:~/0x04$
+```
+
+Repo:
+
++ GitHub repository: alx-low_level_programming
++ Directory: 0x04-more_functions_nested_loops
++ File: 7-print_diagonal.c
+
+8. You are so much sunshine in every square inch
+
+Write a function that prints a square, followed by a new line.
+
++ Prototype: void print_square(int size);
++ You can only use _putchar function to print
++ Where size is the size of the square
++ If size is 0 or less, the function should print only a new line
++ Use the character # to print the square
+
+```bash
+julien@ubuntu:~/0x04$ cat 8-main.c 
+#include "main.h"
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+    print_square(2);
+    print_square(10);
+    print_square(0);
+    return (0);
+}
+
+julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 8-main.c 8-print_square.c -o 8-squares
+julien@ubuntu:~/0x04$ ./8-squares 
+##
+##
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+
+julien@ubuntu:~/0x04$
+```
+
+Repo:
+
++ GitHub repository: alx-low_level_programming
++ Directory: 0x04-more_functions_nested_loops
++ File: 8-print_square.c
+
+9. Fizz-Buzz
+
+The “Fizz-Buzz test” is an interview question designed to help filter out the 99.5% of programming job candidates who can’t seem to program their way out of a wet paper bag.
+
+Write a program that prints the numbers from 1 to 100, followed by a new line. But for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuzz.
+
++ Each number or word should be separated by a space
++ You are allowed to use the standard library
+
+```bash
+julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 9-fizz_buzz.c -o 9-fizz_buzz
+julien@ubuntu:~/0x04$ ./9-fizz_buzz 
+1 2 Fizz 4 Buzz Fizz 7 8 Fizz Buzz 11 Fizz 13 14 FizzBuzz 16 17 Fizz 19 Buzz Fizz 22 23 Fizz Buzz 26 Fizz 28 29 FizzBuzz 31 32 Fizz 34 Buzz Fizz 37 38 Fizz Buzz 41 Fizz 43 44 FizzBuzz 46 47 Fizz 49 Buzz Fizz 52 53 Fizz Buzz 56 Fizz 58 59 FizzBuzz 61 62 Fizz 64 Buzz Fizz 67 68 Fizz Buzz 71 Fizz 73 74 FizzBuzz 76 77 Fizz 79 Buzz Fizz 82 83 Fizz Buzz 86 Fizz 88 89 FizzBuzz 91 92 Fizz 94 Buzz Fizz 97 98 Fizz Buzz
+julien@ubuntu:~/0x04$ 
+```
+
+Repo:
+
++ GitHub repository: alx-low_level_programming
++ Directory: 0x04-more_functions_nested_loops
++ File: 9-fizz_buzz.c
