@@ -41,6 +41,17 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 + The prototypes of all your functions and the prototype of the function _putchar should be included in your header file called main.h
 + Don’t forget to push your header file
 
+## Quiz Questions
+
+![task1](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/images/pointers0.png)
+![task2](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/images/pointers1.png)
+![task3](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/images/pointers2-3.png)
+![task4](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/images/pointers4.png)
+![task5](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/images/pointers5.png)
+![task6](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/images/pointers6.png)
+
+## TASKS
+
 0. strcat
 
 Write a function that concatenates two strings.
