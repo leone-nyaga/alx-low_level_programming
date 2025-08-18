@@ -66,6 +66,11 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 You do not need to learn about dynamic libraries, yet.
 
+## Quiz Questions
+
+![task0](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x09-static_libraries/images/statlab0-1.png)
+![task1](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x09-static_libraries/images/statlab2-3.png)
+
 ## Tasks
 
 0. A library is not a luxury but one of the necessities of life
