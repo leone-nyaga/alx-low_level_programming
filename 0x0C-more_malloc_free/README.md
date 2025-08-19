@@ -52,6 +52,13 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ## Quiz Questions
 
+![task0](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x0C-more_malloc_free/images/malloc0-1.png)
+![task1](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x0C-more_malloc_free/images/malloc2.png)
+![task2](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x0C-more_malloc_free/images/malloc3.png)
+![task3](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x0C-more_malloc_free/images/malloc4-5.png)
+![task4](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x0C-more_malloc_free/images/malloc6-7.png)
+![task5](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x0C-more_malloc_free/images/malloc8-9.png)
+
 ## Tasks
 
 0. Trust no one
