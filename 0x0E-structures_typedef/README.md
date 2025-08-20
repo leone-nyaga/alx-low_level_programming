@@ -6,18 +6,18 @@
 
 Read or watch:
 
-+ 0x0d. Structures.pdf
-+ struct (C programming language)
-+ Documentation: structures
-+ 0x0d. Typedef and structures.pdf
-+ typedef
++ [0x0d. Structures.pdf](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2021/1/6eb80c79c99f6125450a0dc11b300d46238d1a5a.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20250820%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250820T103358Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8abf278704ec817f905ea567b9b957a230b4f566bbcd1afd340c213f408f68e3)
++ [struct (C programming language)](https://en.wikipedia.org/wiki/Struct_(C_programming_language))
++ [Documentation: structures](https://en.wikipedia.org/wiki/Struct_(C_programming_language))
++ [0x0d. Typedef and structures.pdf](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2021/1/c8ff3e6f7202be7fa489a584e41d005504a07c23.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20250820%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250820T103508Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9d803e49cda4823ca26b6d44e762a0eb1a8fe008321de47ef5009986b451f19d)
++ [typedef](https://publications.gbdirect.co.uk//c_book/chapter8/typedef.html)
 + Programming in C by Stephen Kochan - Chapter 8, Working with Structures p163-189
 
 ## Additional Resource
 
-+ Structs & Typedef in C Explained
-+ Practical use of structs & typedef with coding examples
-+ The Lost Art of C Structure Packing (Advanced - not mandatory)
++ [Structs & Typedef in C Explained](https://www.youtube.com/watch?feature=shared&v=V13CbI74WQc)
++ [Practical use of structs & typedef with coding examples](https://www.youtube.com/watch?feature=shared&v=0IVfazuTHU8)
++ [The Lost Art of C Structure Packing](http://www.catb.org/esr/structure-packing/) (Advanced - not mandatory)
 
 ## Learning Objectives
 
