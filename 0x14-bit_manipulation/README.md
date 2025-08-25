@@ -52,10 +52,10 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ## Quiz questions
 
-![task0]()
-![task1]()
-![task2]()
-![task3]()
+![task0](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x14-bit_manipulation/images/bit0-1.png)
+![task1](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x14-bit_manipulation/images/bit2-3.png)
+![task2](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x14-bit_manipulation/images/bit4-5.png)
+![task3](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x14-bit_manipulation/images/bit6-7.png)
 ![task4]()
 ![task5]()
 ![task6]()
