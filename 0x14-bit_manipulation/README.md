@@ -56,9 +56,11 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ![task1](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x14-bit_manipulation/images/bit2-3.png)
 ![task2](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x14-bit_manipulation/images/bit4-5.png)
 ![task3](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x14-bit_manipulation/images/bit6-7.png)
-![task4]()
-![task5]()
-![task6]()
-![task7]()
-![task8]()
-![task9]()
+![task4](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x14-bit_manipulation/images/bit8-9.png)
+![task5](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x14-bit_manipulation/images/bit10-11.png)
+![task6](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x14-bit_manipulation/images/bit12-13.png)
+![task7](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x14-bit_manipulation/images/bit14-15.png)
+![task8](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x14-bit_manipulation/images/it16-17.png)
+![task9](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x14-bit_manipulation/images/bit18-19.png)
+
+
