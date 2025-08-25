@@ -51,3 +51,14 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 + All your header files should be include guarded
 
 ## Quiz questions
+
+![task0]()
+![task1]()
+![task2]()
+![task3]()
+![task4]()
+![task5]()
+![task6]()
+![task7]()
+![task8]()
+![task9]()
