@@ -1,5 +1,7 @@
 # 0x14. C - Bit manipulation
 
+![bitchart](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x14-bit_manipulation/images/image_2025-08-25_163127116.png)
+
 ## Resources
 
 Read or watch:
