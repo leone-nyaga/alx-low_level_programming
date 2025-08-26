@@ -61,6 +61,14 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ## Quiz Question
 
+![task0](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x15-file_io/images/fileio0-1.png)
+![task1](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x15-file_io/images/fileio2-3.png)
+![task2](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x15-file_io/images/fileio4-5.png)
+![task3](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x15-file_io/images/fileio6-7.png)
+![task4](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x15-file_io/images/fileio8-9.png)
+![task5](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x15-file_io/images/fileio10.png)
+![task6](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x15-file_io/images/fileio11-12.png)
+![task7](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x15-file_io/images/fileio13-14.png)
 
 ## Task
 
