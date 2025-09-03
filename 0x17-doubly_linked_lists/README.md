@@ -65,7 +65,7 @@ typedef struct dlistint_s
 
 ## Quiz Questions
 
-![task0]()
+![task0](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x17-doubly_linked_lists/images/doublylist0-1.png)
 
 ## Tasks
 
