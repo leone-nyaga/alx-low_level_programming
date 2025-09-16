@@ -48,7 +48,8 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 In the following tasks, we are going to use [these files](https://github.com/alx-tools/0x1B.c). We want to compile these only.
 
-Tasks
+## Tasks
+
 0. make -f 0-Makefile
 
 Create your first Makefile.
