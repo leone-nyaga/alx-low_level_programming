@@ -6,10 +6,10 @@
 
 Read or watch:
 
-+ [What is a makefile and how does it work]()
-+ [Installing the make utility]()
-+ [make-official documentation]()
-+ [More about Makefile]()
++ [What is a makefile and how does it work](https://opensource.com/article/18/8/what-how-makefile)
++ [Installing the make utility](https://www.geeksforgeeks.org/installation-guide/how-to-install-make-on-ubuntu)
++ [make-official documentation](https://www.gnu.org/software/make/manual/html_node)
++ [More about Makefile](https://www.google.com/search?q=makefile)
 
 ## Learning Objectives
 
