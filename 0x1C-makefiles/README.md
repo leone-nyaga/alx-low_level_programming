@@ -1,6 +1,6 @@
 # 0x1C. C - Makefiles
 
-![]()
+![makefile gif](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x1C-makefiles/images/gif.gif)
 
 ## Resources
 
