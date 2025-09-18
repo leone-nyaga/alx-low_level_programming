@@ -643,7 +643,7 @@ julien@ubuntu:~/0x1A. Hash tables$ ./sht
 julien@ubuntu:~/0x1A. Hash tables$ 
 ```
 
-![php logo]()
+![php logo](https://github.com/leone-nyaga/alx-low_level_programming/blob/master/0x1A-hash_tables/images/php.png)
 
 Repo:
 
