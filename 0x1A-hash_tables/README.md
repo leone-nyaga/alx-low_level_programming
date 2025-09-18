@@ -95,7 +95,7 @@ Note that all dictionaries are not implemented using hash tables and there is a 
 
 ## Tasks
 
-0. >>> ht = {}
+0. `>>> ht = {}`
 
 Write a function that creates a hash table.
 
