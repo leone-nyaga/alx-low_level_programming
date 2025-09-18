@@ -274,7 +274,7 @@ Repo:
 + Directory: 0x1A-hash_tables
 + File: 2-key_index.c
   
-3. >>> ht['betty'] = 'cool'
+3. `>>> ht['betty'] = 'cool'`
 
 Write a function that adds an element to the hash table.
 
@@ -325,7 +325,7 @@ Repo:
 + Directory: 0x1A-hash_tables
 + File: 3-hash_table_set.c
   
-4. >>> ht['betty']
+4. `>>> ht['betty']`
 
 Write a function that retrieves a value associated with a key.
 
@@ -398,7 +398,7 @@ Repo:
 + Directory: 0x1A-hash_tables
 + File: 4-hash_table_get.c
   
-5. >>> print(ht)
+5. `>>> print(ht)`
 
 Write a function that prints a hash table.
 
@@ -450,7 +450,7 @@ Repo:
 + Directory: 0x1A-hash_tables
 + File: 5-hash_table_print.c
   
-6. >>> del ht
+6. `>>> del ht`
 
 Write a function that deletes a hash table.
 
@@ -525,7 +525,7 @@ Repo:
 + Directory: 0x1A-hash_tables
 + File: 6-hash_table_delete.c
   
-7. $ht['Betty'] = 'Cool'
+7. `$ht['Betty'] = 'Cool'`
 
 In [PHP](https://www.php.net/manual/en/intro-whatis.php), hash tables are **ordered**. Wait… WAT? How is this even possible?
 
